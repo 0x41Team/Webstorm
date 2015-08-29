@@ -5,3 +5,5 @@ Live templates
 + Happy coding :expressionless:
 
 :link: [Documentation](https://www.jetbrains.com/webstorm/help/live-templates.html)
+
+:link: [Creating JSDoc Comment](https://www.jetbrains.com/webstorm/help/creating-jsdoc-comments.html)
